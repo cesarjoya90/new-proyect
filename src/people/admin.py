@@ -1,4 +1,5 @@
 from django.contrib import admin
+from people.models import Persona
 
 # Register your models here.
 
